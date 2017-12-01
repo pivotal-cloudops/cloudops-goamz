@@ -14,7 +14,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/sclevine/goamz/elb"
+	"github.com/pivotal-cloudops/cloudops-goamz/elb"
 )
 
 // Server implements an ELB simulator for use in testing.

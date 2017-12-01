@@ -12,7 +12,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/sclevine/goamz/route53"
+	"github.com/pivotal-cloudops/cloudops-goamz/route53"
 )
 
 type action struct {
