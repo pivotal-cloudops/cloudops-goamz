@@ -7,7 +7,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/sclevine/goamz/aws"
+	"github.com/pivotal-cloudops/cloudops-goamz/aws"
 )
 
 // ----------------------------------------------------------------------------

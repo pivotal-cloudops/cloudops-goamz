@@ -4,7 +4,7 @@ import (
 	"crypto/hmac"
 	"crypto/sha256"
 	"encoding/base64"
-	"github.com/sclevine/goamz/aws"
+	"github.com/pivotal-cloudops/cloudops-goamz/aws"
 	"sort"
 	"strings"
 )

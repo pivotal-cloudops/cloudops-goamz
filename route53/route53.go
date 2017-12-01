@@ -14,7 +14,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sclevine/goamz/aws"
+	"github.com/pivotal-cloudops/cloudops-goamz/aws"
 )
 
 // The Route53 type encapsulates operations operations with the route53 endpoint.

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/sclevine/goamz/aws"
+	"github.com/pivotal-cloudops/cloudops-goamz/aws"
 )
 
 var b64 = base64.StdEncoding

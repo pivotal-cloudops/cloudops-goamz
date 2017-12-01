@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/sclevine/goamz/aws"
+	"github.com/pivotal-cloudops/cloudops-goamz/aws"
 )
 
 // The IAM type encapsulates operations operations with the IAM endpoint.

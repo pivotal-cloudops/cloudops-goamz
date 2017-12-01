@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/sclevine/goamz/aws"
+	"github.com/pivotal-cloudops/cloudops-goamz/aws"
 )
 
 // The ELB type encapsulates operations operations with the elb endpoint.
